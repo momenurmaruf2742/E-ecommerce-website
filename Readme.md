@@ -30,8 +30,7 @@ make a new environment(recommended) and run...
 
 #Momenur islam 
 **Admin Login**:
-Username= admin
-Password= admin
+create superuser using command
 ********************************
 and if you like this project, do give it a "Star" Thank you..
 
